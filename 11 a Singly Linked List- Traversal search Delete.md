@@ -19,6 +19,9 @@ STEP 6 : Stop.
 
 ### Program:
 ```
+#Name:Gowtham I K
+#Reg no:212222090008
+
 class Node:
       def     init (self, data=None):
             self.data = data
